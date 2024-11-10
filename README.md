@@ -1,6 +1,6 @@
 # Document-Management-RAG
 
-Installing PostgreSQL in ubuntu machine
+## Installing PostgreSQL in ubuntu machine
 
 sudo apt-get update
 
